@@ -1,26 +1,15 @@
 ## Hello hello! 👋
+I'm a Games Programmer based in Sydney, Australia. I've been passionate about games and programming my whole life, with 6+ years of programming experience. I enjoy writing modular and extensible code to make my life, and the lives of the people I'm working with, easier.
 
-<!--
-**wesleymarsh/wesleymarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages and Tools
+- ***C++, Blueprints***
+- ***Unreal Engine 5***
+- ***Rider, Visual Studio***
+- ***Git, Perforce***
+- C#, Lua
+- Unity
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- dungeon forge
-modular procedurally generated 
-
-currently closed sourced but will be open sourced after a rewrite to improve performance
-
--->
 ## I'm currently working on...
 ### Ancient Light
 A light-bending puzzle game where you refract, reflect and combine lights to traverse an ancient ruin.
